@@ -20,7 +20,7 @@ class ShopApp extends StatelessWidget {
     const storage = FlutterSecureStorage();
     
     return MaterialApp(
-      title: 'Daily Goods',
+      title: 'Cartify',
       debugShowCheckedModeBanner: false,
       theme: ThemeData(
         useMaterial3: true,
